@@ -5,6 +5,8 @@
 > A modern, feature-rich URL shortener that transforms long URLs into short, shareable links with comprehensive analytics.
 
 ## DEMO : https://shortlifyy.netlify.app
+Default login -> admin@admin.com
+                 adminn
 
 ## 🛠️ Tech Stack
 
