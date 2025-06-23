@@ -1,6 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/17f7f56f-07f4-48aa-aa9b-47324e056d6d/deploy-status)](https://app.netlify.com/projects/shortlifyy/deploys)
 
-
 # 🔗 Shortlify - URL Shortener
 
 > A modern, feature-rich URL shortener that transforms long URLs into short, shareable links with comprehensive analytics.
