@@ -4,21 +4,7 @@
 
 > A modern, feature-rich URL shortener that transforms long URLs into short, shareable links with comprehensive analytics.
 
-
-
----
-
-### 📱 **Screenshots**
-
-<div align="center">
-
-| Dashboard | Link Creation | Analytics |
-|-----------|---------------|-----------|
-| ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | ![Create Link](https://via.placeholder.com/300x200?text=Create+Link) | ![Analytics](https://via.placeholder.com/300x200?text=Analytics) |
-
-</div>
-
----
+## DEMO : https://shortlifyy.netlify.app
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +31,6 @@
 - **Netlify** - Frontend hosting with continuous deployment
 - **Custom Domain** - Professional branding
 
-1. **Clone the repository**
 
 
 
